@@ -18,3 +18,5 @@ Both facenet and the CNN models need to be downloaded from our mirror. <br />
 The model file should be placed in its corresponding model folder.<br />
 To use the models, there are demo notebooks for facenet with faces, and facenet with the mnist dataset, and also a 'use model' notebook for each CNN model.
 The usage of those notebooks requires having both Keras and PyTorch in your python's enviroment.
+## Project Report
+Here one can find the project report describing the project and its background in detail [report link](https://nx29079.your-storageshare.de/s/bKykp5N9KbHxZNz).
