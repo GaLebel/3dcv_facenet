@@ -2,6 +2,7 @@
 
 In this project, We implemented the FaceNet architecture, which had achieved state-of-the-art results in the task of Face Recognition. For comparison, we trained three CNN models with different parameters and also demonstrated the effects of a class imbalanced dataset.
 
+# DEMO NB IS IN MODELS/FACENET 
 
 ## Usage
 Both facenet and the CNN models need to be downloaded from our mirror. <br />
